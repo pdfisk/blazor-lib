@@ -3,6 +3,7 @@
     public class AppContants
     {
         public const string AppName = "Cobol AI Studio";
-        public const string LastUpdated = "2026-02-06T17:44:11Z";
+        public const string LastUpdated = "2026-02-06T17:56:38Z";
+        public const string TOKEN = "Qj9nCoN_Rj1CDVs10PcboU70zezp--aNU2rKGZdb";
     }
 }
