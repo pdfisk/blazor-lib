@@ -4,6 +4,6 @@
     {
         public const string AppName = "Cobol AI Studio";
         public const string LastUpdated = "2026-02-06T17:56:38Z";
-        public const string TOKEN = "Qj9nCoN_Rj1CDVs10PcboU70zezp--aNU2rKGZdb";
+        public const string TOKEN = "pfGHuyuVLaC0qVxFkJ7yW0OzMhmHJFkx2XLTdx9C";
     }
 }
